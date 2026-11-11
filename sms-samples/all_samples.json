@@ -1,0 +1,502 @@
+[
+  {
+    "id": "gen-001",
+    "label": "genuine",
+    "text": "Reminder: your dentist appointment with Dr. Patel is tomorrow at 2:30 PM. Reply C to confirm or call us to reschedule."
+  },
+  {
+    "id": "gen-002",
+    "label": "genuine",
+    "text": "USPS: Your package is out for delivery today and should arrive by 8 PM. Tracking: 9400111899223344556677."
+  },
+  {
+    "id": "gen-003",
+    "label": "genuine",
+    "text": "Hey, running about 10 minutes late, traffic on the 405 is bad. See you soon!"
+  },
+  {
+    "id": "gen-004",
+    "label": "genuine",
+    "text": "Your Google verification code is 482913. Don't share this code with anyone."
+  },
+  {
+    "id": "gen-005",
+    "label": "genuine",
+    "text": "Hi, the 3pm meeting got moved to the room on the 4th floor. Same time, just a new room."
+  },
+  {
+    "id": "gen-006",
+    "label": "genuine",
+    "text": "Chase Alert: A $42.17 charge was made at Trader Joe's on your debit card ending 7781. Reply STOP to stop alerts."
+  },
+  {
+    "id": "gen-007",
+    "label": "genuine",
+    "text": "Mom, can you pick up Jake from soccer practice at 5? I'm stuck at work."
+  },
+  {
+    "id": "gen-008",
+    "label": "genuine",
+    "text": "This is a reminder from Lakeview Vet Clinic: Bella's annual checkup is scheduled for Friday at 11 AM."
+  },
+  {
+    "id": "gen-009",
+    "label": "genuine",
+    "text": "Your Amazon package has been delivered to your front porch at 1:42 PM today."
+  },
+  {
+    "id": "gen-010",
+    "label": "genuine",
+    "text": "Happy birthday!! Hope you have an amazing day, let's grab dinner this weekend to celebrate \ud83c\udf89"
+  },
+  {
+    "id": "gen-011",
+    "label": "genuine",
+    "text": "123456 is your verification code for logging into your account. This code expires in 10 minutes."
+  },
+  {
+    "id": "gen-012",
+    "label": "genuine",
+    "text": "Can you send me the Q3 report before end of day? Need it for the client call tomorrow morning."
+  },
+  {
+    "id": "gen-013",
+    "label": "genuine",
+    "text": "Starbucks Rewards: You have 2 Stars left to earn a free drink! Check the app for details. Reply STOP to opt out."
+  },
+  {
+    "id": "gen-014",
+    "label": "genuine",
+    "text": "Reminder from City Dental: your cleaning appointment is scheduled for Oct 15 at 9:00 AM. Call us if you need to reschedule."
+  },
+  {
+    "id": "gen-015",
+    "label": "genuine",
+    "text": "Just landed! Baggage claim says 20 mins. Can you grab me from arrivals?"
+  },
+  {
+    "id": "gen-016",
+    "label": "genuine",
+    "text": "Your Wells Fargo statement is ready to view online. Log in to the app or visit wellsfargo.com to see details."
+  },
+  {
+    "id": "gen-017",
+    "label": "genuine",
+    "text": "FedEx: Your shipment is scheduled to arrive on Thursday between 10 AM and 2 PM."
+  },
+  {
+    "id": "gen-018",
+    "label": "genuine",
+    "text": "Thanks for dinner last night, it was really nice catching up. Let's do it again soon!"
+  },
+  {
+    "id": "gen-019",
+    "label": "genuine",
+    "text": "Team standup moved to 9:15 tomorrow due to the all-hands. See the calendar invite for the link."
+  },
+  {
+    "id": "gen-020",
+    "label": "genuine",
+    "text": "Your one-time passcode for Bank of America online banking is 739182. Valid for 5 minutes."
+  },
+  {
+    "id": "gen-021",
+    "label": "genuine",
+    "text": "Reminder: Your haircut with Jenna at Studio 22 is booked for Saturday at 1 PM."
+  },
+  {
+    "id": "gen-022",
+    "label": "genuine",
+    "text": "Can you grab milk and eggs on your way home? We're out again lol"
+  },
+  {
+    "id": "gen-023",
+    "label": "genuine",
+    "text": "Your DoorDash order from Panda Express has been delivered. Enjoy your meal!"
+  },
+  {
+    "id": "gen-024",
+    "label": "genuine",
+    "text": "CVS ExtraCare: You've earned $4 in rewards! Valid through end of month at any CVS location. Text STOP to unsubscribe."
+  },
+  {
+    "id": "gen-025",
+    "label": "genuine",
+    "text": "Quick heads up, the office will be closed Monday for the holiday. See everyone Tuesday!"
+  },
+  {
+    "id": "gen-026",
+    "label": "genuine",
+    "text": "Capital One: Your payment of $250.00 has been received. Thank you! Current balance is $0.00."
+  },
+  {
+    "id": "gen-027",
+    "label": "genuine",
+    "text": "Omg did you see the game last night?? That last quarter was insane"
+  },
+  {
+    "id": "gen-028",
+    "label": "genuine",
+    "text": "This is a reminder that your car service at Midtown Auto is scheduled for tomorrow at 8 AM."
+  },
+  {
+    "id": "gen-029",
+    "label": "genuine",
+    "text": "Your Microsoft account security code is 554821. If you didn't request this, you can ignore this message."
+  },
+  {
+    "id": "gen-030",
+    "label": "genuine",
+    "text": "UPS: Your package was delivered to the front desk of your building at 3:10 PM."
+  },
+  {
+    "id": "gen-031",
+    "label": "genuine",
+    "text": "I'm free this weekend if you want to go hiking, weather looks nice on Saturday"
+  },
+  {
+    "id": "gen-032",
+    "label": "genuine",
+    "text": "Hi, this is Sarah from HR. Your benefits enrollment deadline is this Friday, let me know if you have questions."
+  },
+  {
+    "id": "gen-033",
+    "label": "genuine",
+    "text": "American Express: Your payment due date is in 5 days. Minimum payment of $35 is due on the 12th."
+  },
+  {
+    "id": "gen-034",
+    "label": "genuine",
+    "text": "Reminder: your eye exam at Clearview Optical is tomorrow at 10:30 AM. Please arrive 10 minutes early."
+  },
+  {
+    "id": "gen-035",
+    "label": "genuine",
+    "text": "Grandma's birthday dinner is this Sunday at 6, hope you can make it!"
+  },
+  {
+    "id": "gen-036",
+    "label": "genuine",
+    "text": "Your Instagram confirmation code is 918273. Use it to confirm your account."
+  },
+  {
+    "id": "gen-037",
+    "label": "genuine",
+    "text": "Domino's: Buy one large pizza, get one 50% off this week only! Order online or in the app. Reply STOP to opt out."
+  },
+  {
+    "id": "gen-038",
+    "label": "genuine",
+    "text": "Your Target order #4471829 has shipped and should arrive within 2-3 business days."
+  },
+  {
+    "id": "gen-039",
+    "label": "genuine",
+    "text": "The client pushed the demo to Thursday at 2 PM. I'll send an updated invite shortly."
+  },
+  {
+    "id": "gen-040",
+    "label": "genuine",
+    "text": "Can't wait to see you next week! Text me your flight info when you book it"
+  },
+  {
+    "id": "gen-041",
+    "label": "genuine",
+    "text": "Alert: Your checking account balance is below $100. Current balance: $84.32."
+  },
+  {
+    "id": "gen-042",
+    "label": "genuine",
+    "text": "Reminder: Parent-teacher conference for Mia is scheduled for Wednesday at 4 PM in Room 204."
+  },
+  {
+    "id": "gen-043",
+    "label": "genuine",
+    "text": "Thanks for helping me move this weekend, I owe you big time. Pizza's on me next time"
+  },
+  {
+    "id": "gen-044",
+    "label": "genuine",
+    "text": "6204 is your PayPal security code. Don't share this code with anyone, including PayPal staff."
+  },
+  {
+    "id": "gen-045",
+    "label": "genuine",
+    "text": "Great job on the presentation today, the client was really impressed. Let's debrief tomorrow morning."
+  },
+  {
+    "id": "gen-046",
+    "label": "genuine",
+    "text": "Your prescription from Walgreens is ready for pickup at the store on Main St."
+  },
+  {
+    "id": "gen-047",
+    "label": "genuine",
+    "text": "Chipotle Rewards: Your free entree reward expires in 3 days, don't forget to use it! Reply STOP to unsubscribe."
+  },
+  {
+    "id": "gen-048",
+    "label": "genuine",
+    "text": "Made it home safe, thanks for the ride! Talk soon"
+  },
+  {
+    "id": "gen-049",
+    "label": "genuine",
+    "text": "Reminder: your annual physical with Dr. Nguyen is scheduled for next Monday at 9 AM. Please fast for 8 hours prior."
+  },
+  {
+    "id": "gen-050",
+    "label": "genuine",
+    "text": "Discover: Your autopay of $120.00 is scheduled for the 3rd of next month from your linked checking account."
+  },
+  {
+    "id": "scam-001",
+    "label": "scam",
+    "text": "USPS: We attempted to deliver your package but failed due to incomplete address info. Update here: usps-trackupdate.com/verify"
+  },
+  {
+    "id": "scam-002",
+    "label": "scam",
+    "text": "ALERT: Your Wells Fargo account has been locked due to suspicious activity. Verify now at wellsfargo-secure-login.net or your card will be suspended."
+  },
+  {
+    "id": "scam-003",
+    "label": "scam",
+    "text": "CONGRATULATIONS! You've won a $1,000 Walmart gift card! Claim your prize now at walmart-rewards-claim.com before it expires in 24 hours."
+  },
+  {
+    "id": "scam-004",
+    "label": "scam",
+    "text": "IRS NOTICE: You have an unpaid tax balance of $847.00. Failure to pay within 24 hrs will result in legal action. Call 1-800-555-0199 immediately."
+  },
+  {
+    "id": "scam-005",
+    "label": "scam",
+    "text": "FedEx: Your parcel is on hold due to unpaid customs fee of $2.99. Pay now to release shipment: fedex-fee-pay.com/invoice"
+  },
+  {
+    "id": "scam-006",
+    "label": "scam",
+    "text": "Hi, it's your boss. I'm in a meeting and need you to buy 3 $100 Google Play gift cards for a client. Send me the codes ASAP, I'll pay you back."
+  },
+  {
+    "id": "scam-007",
+    "label": "scam",
+    "text": "Hello dear, I saw your profile and felt a connection. I'm a soldier overseas and would love to talk more. Please text me on WhatsApp at this number."
+  },
+  {
+    "id": "scam-008",
+    "label": "scam",
+    "text": "Microsoft Security Alert: Your computer has been infected with a virus. Call our support line immediately at 1-888-555-0147 to avoid data loss."
+  },
+  {
+    "id": "scam-009",
+    "label": "scam",
+    "text": "I turned $500 into $8,000 in 2 weeks with this crypto trading bot! Message me now, limited spots left: bit.ly/cryptoprofit99"
+  },
+  {
+    "id": "scam-010",
+    "label": "scam",
+    "text": "Chase Fraud Dept: We detected unusual activity on your account. Reply YES to confirm $899.00 purchase or call 1-855-555-0122 to dispute."
+  },
+  {
+    "id": "scam-011",
+    "label": "scam",
+    "text": "Grandma, it's me, I got a new number. I'm in trouble and need $300 sent through a gift card right away, please don't tell mom and dad."
+  },
+  {
+    "id": "scam-012",
+    "label": "scam",
+    "text": "Your Netflix payment failed. Update your billing info within 24 hours or your account will be suspended: netflix-billing-update.com"
+  },
+  {
+    "id": "scam-013",
+    "label": "scam",
+    "text": "Congrats! You've been selected for a $45/hr remote data entry job. No experience needed. Reply START to begin onboarding and provide your SSN."
+  },
+  {
+    "id": "scam-014",
+    "label": "scam",
+    "text": "You have been selected to receive $5,000,000 from the Publishers Clearing House sweepstakes. Contact claims agent at this number to process your winnings."
+  },
+  {
+    "id": "scam-015",
+    "label": "scam",
+    "text": "We have recorded private footage of you from your webcam. Pay $1500 in Bitcoin within 48 hours or we send it to all your contacts."
+  },
+  {
+    "id": "scam-016",
+    "label": "scam",
+    "text": "USPS: Your package could not be delivered due to an unpaid $1.99 redelivery fee. Click here to pay: usps-redeliver.info"
+  },
+  {
+    "id": "scam-017",
+    "label": "scam",
+    "text": "Bank of America: Your debit card has been temporarily suspended. Verify your identity now at bofa-verify-account.com to restore access."
+  },
+  {
+    "id": "scam-018",
+    "label": "scam",
+    "text": "This is Pastor Mike from the church. I'm traveling and need help, can you send me $200 in iTunes gift cards today? I'll explain later."
+  },
+  {
+    "id": "scam-019",
+    "label": "scam",
+    "text": "Our AI trading platform guarantees 300% returns in 30 days. Join now with as little as $100: invest-fastgains.net"
+  },
+  {
+    "id": "scam-020",
+    "label": "scam",
+    "text": "Apple ID Alert: Your account was accessed from a new device in Russia. If this wasn't you, verify immediately: apple-id-secure-check.com"
+  },
+  {
+    "id": "scam-021",
+    "label": "scam",
+    "text": "Final Notice: The IRS has filed a lawsuit against you for unpaid taxes. Call 1-800-555-0183 now to avoid arrest warrant."
+  },
+  {
+    "id": "scam-022",
+    "label": "scam",
+    "text": "Baby I miss you so much, I need $800 to cover my flight to finally come see you. Can you send it to this account today?"
+  },
+  {
+    "id": "scam-023",
+    "label": "scam",
+    "text": "You've been hired as a mystery shopper! First task: cash this check we sent and wire $400 back to us to start your assignment."
+  },
+  {
+    "id": "scam-024",
+    "label": "scam",
+    "text": "WARNING: Your Amazon account shows signs of fraud. Call 1-877-555-0166 now or your account and linked cards will be charged $499.99."
+  },
+  {
+    "id": "scam-025",
+    "label": "scam",
+    "text": "Coca-Cola Promotion: Your number has won $750,000 and a brand new car. To claim, send your full name, address, and a processing fee of $150."
+  },
+  {
+    "id": "scam-026",
+    "label": "scam",
+    "text": "Your Google account storage is full. Upgrade now to avoid losing your photos: google-storage-upgrade.net/login"
+  },
+  {
+    "id": "scam-027",
+    "label": "scam",
+    "text": "DHL: Your international package is held at customs. A fee of $3.50 is required to proceed. Pay here: dhl-customs-pay.com"
+  },
+  {
+    "id": "scam-028",
+    "label": "scam",
+    "text": "PayPal: We noticed a login from an unrecognized device. If this wasn't you, secure your account now: paypal-account-secure.info"
+  },
+  {
+    "id": "scam-029",
+    "label": "scam",
+    "text": "I know your schedule and where you live. Send $2000 in Bitcoin to this wallet or there will be consequences for your family."
+  },
+  {
+    "id": "scam-030",
+    "label": "scam",
+    "text": "Hi grandpa it's your grandson, I was in an accident and I'm at the hospital. I need you to wire $950 right now, please hurry."
+  },
+  {
+    "id": "scam-031",
+    "label": "scam",
+    "text": "Limited time: Elon Musk is giving away 5000 BTC to early supporters. Send 0.1 BTC to this address and receive 1 BTC back instantly."
+  },
+  {
+    "id": "scam-032",
+    "label": "scam",
+    "text": "Earn $3000/week working from home packaging products! Reply YES and send a $50 deposit to receive your starter kit."
+  },
+  {
+    "id": "scam-033",
+    "label": "scam",
+    "text": "Your Chase account access will be restricted in 24 hours unless you confirm your identity: chase-identity-confirm.com/secure"
+  },
+  {
+    "id": "scam-034",
+    "label": "scam",
+    "text": "FedEx Sweepstakes Winner! You've won an iPhone 15 Pro. Pay $4.95 shipping to claim your prize: fedex-prize-shipping.net"
+  },
+  {
+    "id": "scam-035",
+    "label": "scam",
+    "text": "Hey it's mom, I dropped my phone in water and this is a borrowed number. I need you to buy a $250 Amazon gift card for me, it's urgent."
+  },
+  {
+    "id": "scam-036",
+    "label": "scam",
+    "text": "Your Norton Antivirus subscription has expired and your device is unprotected. Renew immediately by calling 1-800-555-0138 to avoid data loss."
+  },
+  {
+    "id": "scam-037",
+    "label": "scam",
+    "text": "Capital One Fraud Alert: $1,299.00 charge pending on your card. Reply NO to decline or call 1-855-555-0190 to speak with an agent."
+  },
+  {
+    "id": "scam-038",
+    "label": "scam",
+    "text": "My dearest, customs is holding the gift package I sent you and I need $600 to release it. Please help me, I love you so much."
+  },
+  {
+    "id": "scam-039",
+    "label": "scam",
+    "text": "Your social media account will be deleted and your photos leaked unless you send $300 in gift cards within the next hour."
+  },
+  {
+    "id": "scam-040",
+    "label": "scam",
+    "text": "Your tax refund of $1,247.00 is pending. Click here to verify your bank details and receive your refund immediately: irs-refund-verify.com"
+  },
+  {
+    "id": "scam-041",
+    "label": "scam",
+    "text": "Your Amazon package is delayed due to an address verification issue. Confirm your details within 24 hours: amazon-address-confirm.net"
+  },
+  {
+    "id": "scam-042",
+    "label": "scam",
+    "text": "Facebook Security: Someone tried to log into your account. Verify your identity now or lose access permanently: fb-security-check.info"
+  },
+  {
+    "id": "scam-043",
+    "label": "scam",
+    "text": "Join our private trading group, members are making $500/day. DM me on Telegram @fastcryptowins to get started today."
+  },
+  {
+    "id": "scam-044",
+    "label": "scam",
+    "text": "We reviewed your resume and want to offer you a $38/hr virtual assistant position. Click to accept and submit your bank info for direct deposit setup."
+  },
+  {
+    "id": "scam-045",
+    "label": "scam",
+    "text": "You are the lucky winner of our monthly draw! Claim your $10,000 prize now, just pay a small $99 processing fee to release the funds."
+  },
+  {
+    "id": "scam-046",
+    "label": "scam",
+    "text": "US Bank: Unusual login detected from a new location. Confirm it was you within 1 hour or your account will be frozen: usbank-confirm-id.com"
+  },
+  {
+    "id": "scam-047",
+    "label": "scam",
+    "text": "This is your HR director. I need you to purchase gift cards for an employee appreciation event, reply here and I'll send the details."
+  },
+  {
+    "id": "scam-048",
+    "label": "scam",
+    "text": "Nana it's me, I'm in jail and need bail money fast. Please don't call anyone, just send $1,200 through this cash app link."
+  },
+  {
+    "id": "scam-049",
+    "label": "scam",
+    "text": "Your iCloud storage has been compromised by hackers. Call Apple Support now at 1-800-555-0171 before they access your photos and data."
+  },
+  {
+    "id": "scam-050",
+    "label": "scam",
+    "text": "We hacked your email and found compromising photos. Transfer $1000 in Bitcoin within 24 hours or everyone in your contact list gets a copy."
+  }
+]
