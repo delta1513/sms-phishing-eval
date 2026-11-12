@@ -1023,5 +1023,10 @@
     "id": "gen-103",
     "label": "genuine",
     "text": "View your receipt from ICY BEAR PTY LTD: https://squareup.com/r/r1SEK95H27SX4PZ?sms=1"
+  },
+  {
+    "id": "scam-103",
+    "label": "scam",
+    "text": "Auspost: Your package address is incomplete and cannot be delivered. Click the link to update your address information: https://is.gd/GO5oOz?GAc=yJQDUrx3vm?PwV=8oyTvgMaJ7    Please complete the change within 12 hours, otherwise the package will be returned"
   }
 ]
