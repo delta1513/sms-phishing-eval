@@ -1003,5 +1003,10 @@
     "id": "scam-101",
     "label": "scam",
     "text": "myGov: You have a new correspondence that needs prompt attention.\nGO TO auservces.site"
+  },
+  {
+    "id": "gen-101",
+    "label": "genuine",
+    "text": "DO NOT SHARE WITH ANYONE, EVEN IF THEY CLAIM TO WORK FOR YOUR BANK. Your SMS code for your new Smartphone device registration is 053103."
   }
 ]
