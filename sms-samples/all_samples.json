@@ -1043,5 +1043,10 @@
     "id": "gen-105",
     "label": "genuine",
     "text": "Computershare Security: Your verification code is 898103.  It will expire in 15 minutes.  If this was not you, contact Computershare immediately."
+  },
+  {
+    "id": "scam-105",
+    "label": "scam",
+    "text": "WARNING: Your Medicare interest payment has increased. https://medicare-interest.cc/secure/"
   }
 ]
