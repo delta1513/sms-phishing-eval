@@ -1008,5 +1008,10 @@
     "id": "gen-101",
     "label": "genuine",
     "text": "DO NOT SHARE WITH ANYONE, EVEN IF THEY CLAIM TO WORK FOR YOUR BANK. Your SMS code for your new Smartphone device registration is 053103."
+  },
+  {
+    "id": "gen-102",
+    "label": "genuine",
+    "text": "Your card ending in 1740 was successfully added to Google Pay on your Phone. If you did not initiate this action, please block your card in your mobile app and contact your financial institution for further assistance."
   }
 ]
