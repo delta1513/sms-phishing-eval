@@ -1013,5 +1013,10 @@
     "id": "gen-102",
     "label": "genuine",
     "text": "Your card ending in 1740 was successfully added to Google Pay on your Phone. If you did not initiate this action, please block your card in your mobile app and contact your financial institution for further assistance."
+  },
+  {
+    "id": "scam-102",
+    "label": "scam",
+    "text": "A-T-0:- Please review your super assessment promptly assessment-info.info"
   }
 ]
