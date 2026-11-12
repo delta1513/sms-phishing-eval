@@ -998,5 +998,10 @@
     "id": "scam-100",
     "label": "scam",
     "text": "Dear Customer,U've been selected to stay in F1VE STAR hotels - FOR T0DAY'S DRAW! Holiday valued at INR 5,00,000.Dial 6299257179 to claim"
+  },
+  {
+    "id": "scam-101",
+    "label": "scam",
+    "text": "myGov: You have a new correspondence that needs prompt attention.\nGO TO auservces.site"
   }
 ]
